@@ -19,7 +19,6 @@ Thumbs.db
 *.cache
 *.ilk
 *.log
-data
 RMB_data
 [Bb]in
 [Dd]ebug*/

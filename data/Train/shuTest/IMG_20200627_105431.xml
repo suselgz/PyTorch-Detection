@@ -1,0 +1,26 @@
+<annotation>
+  <folder>shuTest</folder>
+  <filename>IMG_20200627_105431</filename>
+  <path>D:\python_le\PyTorch-Detection-master\data\Train\shuTest\IMG_20200627_105431.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4608</width>
+    <height>3456</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>aeroplane</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>385</xmin>
+      <ymin>413</ymin>
+      <xmax>1892</xmax>
+      <ymax>2868</ymax>
+    </bndbox>
+  </object>
+</annotation>
